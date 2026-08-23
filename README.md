@@ -49,6 +49,13 @@
 
 > "Great things are built one line of code at a time." 🚀
 
+# 🚀 360 Days of Code
+
+🔥 I’m challenging myself to code for 360 consecutive days.
+
+📅 Start Date: August 23, 2026  
+🏁 End Date: August 17, 2027
+
 
 ### 🔝 Top Contributed Repo
 
