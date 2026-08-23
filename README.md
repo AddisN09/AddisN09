@@ -44,10 +44,13 @@
 
 ![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=AddisN09&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+# 📊 GitHub Streak
 
-### ✍️ Random Dev Quote
+![GitHub Streak](https://streak-stats.demolab.com/?user=AddisN09&theme=dark&hide_border=false)
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️ Developer Quote
+
+> "Great things are built one line of code at a time." 🚀
 
 
 ### 🔝 Top Contributed Repo
