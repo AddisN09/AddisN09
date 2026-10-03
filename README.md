@@ -1,14 +1,16 @@
  # 💫 About Me
 
-🔭 I’m currently working on: Backend projects using Node.js, Express, MongoDB, and Mongoose.
+🔭 I’m currently working on: Backend projects using Node.js, Express, MongoDB, Mongoose, Microservices, distributed systems, scalable backend architecture, and API design.
 
 🤝 I’m looking to collaborate on: Open-source projects and backend applications.
 
 🆘 I’m currently looking for help with: Advanced backend architecture, API design, and authentication.
 
-🌱 I’m currently learning: JavaScript, Node.js, Express, MongoDB, Mongoose, REST APIs, Git, and Linux.
+ 🌱 I’m currently learning: JavaScript, Node.js, Express, MongoDB, Mongoose, REST APIs, Git, Linux, Microservices, and Distributed Systems.
 
 💬 Ask me about: JavaScript, Node.js, MongoDB, Mongoose, and backend development.
+
+🎯 Focus: Backend Development → Microservices → Distributed Systems → Scalable Architecture
 
 ⚡ Fun fact: I’m challenging myself to code for 360 consecutive days. 🔥
 
@@ -53,9 +55,8 @@
 
 🔥 I’m challenging myself to code for 360 consecutive days.
 
-📅 Start Date: August 23, 2026  
-🏁 End Date: August 17, 2027
-
+ 📅 Start Date: October 3, 2026
+🏁 End Date: September 28, 2027
 
 ### 🔝 Top Contributed Repo
 
