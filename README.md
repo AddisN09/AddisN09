@@ -12,6 +12,8 @@
 
 🎯 Focus: Backend Development → Microservices → Distributed Systems → Scalable Architecture
 
+**Maintainer & Solo Developer of Gelada** — an open-source JavaScript data structure library.
+
 ⚡ Fun fact: I’m challenging myself to code for 360 consecutive days. 🔥
 
 
