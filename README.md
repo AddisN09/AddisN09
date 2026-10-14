@@ -8,7 +8,7 @@
 
  🌱 I’m currently learning: JavaScript, Node.js, Express, MongoDB, Mongoose, REST APIs, Git, Linux, Microservices, and Distributed Systems.
 
-💬 Ask me about: JavaScript, Node.js, MongoDB, Mongoose, and backend development.
+💬 Ask me about: Backend development with different software architectures.
 
 🎯 Focus: Backend Development → Microservices → Distributed Systems → Scalable Architecture
 
