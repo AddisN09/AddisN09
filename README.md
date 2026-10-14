@@ -6,9 +6,9 @@
 
 🆘 I’m currently looking for help with: Advanced backend architecture, API design, and authentication.
 
- 🌱 I’m currently learning: JavaScript, Node.js, Express, MongoDB, Mongoose, REST APIs, Git, Linux, Microservices, and Distributed Systems.
+ 🌱 I’m currently learning:  Backend development with different software architectures.
 
-💬 Ask me about: Backend development with different software architectures.
+💬 Ask me about: JavaScript, Node.js, Express, MongoDB, Mongoose, REST APIs, Git, Linux, Microservices, and Distributed Systems
 
 🎯 Focus: Backend Development → Microservices → Distributed Systems → Scalable Architecture
 
